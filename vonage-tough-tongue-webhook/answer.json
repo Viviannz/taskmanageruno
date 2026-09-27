@@ -4,7 +4,7 @@
     "endpoint": [
       {
         "type": "sip",
-        "uri": "sip:30vy3zhhv49.sip.livekit.cloud;transport=tcp"
+        "uri": "sip:30vy3zhhv49.sip.livekit.cloud"
       }
     ]
   }
